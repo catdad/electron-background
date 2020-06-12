@@ -1,0 +1,30 @@
+{
+  "name": "electron-background",
+  "version": "1.0.0",
+  "description": "electron-background",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "bin.js",
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catdad/electron-background.git"
+  },
+  "keywords": [],
+  "author": "Kiril Vatev <vatev.1@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catdad/electron-background/issues"
+  },
+  "homepage": "https://github.com/catdad/electron-background#readme",
+  "dependencies": {
+    "import-from": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  }
+}
