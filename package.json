@@ -1,7 +1,7 @@
 {
   "name": "electron-background",
   "version": "1.0.0",
-  "description": "electron-background",
+  "description": "launch a detached electron app",
   "main": "index.js",
   "bin": "./bin.js",
   "scripts": {
@@ -15,7 +15,16 @@
     "type": "git",
     "url": "git+https://github.com/catdad/electron-background.git"
   },
-  "keywords": [],
+  "keywords": [
+    "electron",
+    "launch",
+    "start",
+    "background",
+    "detached",
+    "command line",
+    "bash",
+    "terminal"
+  ],
   "author": "Kiril Vatev <vatev.1@gmail.com>",
   "license": "ISC",
   "bugs": {
