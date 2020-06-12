@@ -1,6 +1,6 @@
 # electron-background
 
-Launch an electrion application from the command line as a detached application. The command line will return immediately, and the application will not attach to your active terminal.
+Launch an [Electron](https://www.npmjs.com/package/electron) application from the command line as a detached application. The command line will return immediately, and the application will not attach to your active terminal.
 
 ## CLI
 
