@@ -4,7 +4,7 @@ Launch an electrion application from the command line as a detached application.
 
 ## CLI
 
-Start your application as you normally, would, using `electron-background` instead of `electron`:
+Start your application as you normally would except using `electron-background` instead of `electron`:
 
 ```bash
 npx electron-background .
