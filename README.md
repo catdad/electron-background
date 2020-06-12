@@ -19,6 +19,6 @@ const electronBackground = require('electron-background');
 
 electronBackground(['.']);
 
-// you can now exit if you want
+// you can now exit if you want, the app will stay running
 process.exit();
 ```
